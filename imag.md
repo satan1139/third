@@ -1,1 +1,1 @@
-![](https://github.com/satan1139/third/blob/master/photo.png)
+![image](https://github.com/satan1139/third/blob/master/photo.png)
